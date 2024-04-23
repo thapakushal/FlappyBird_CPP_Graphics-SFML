@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Users\Kusha\OneDrive - MSFT\Desktop\CODING ALL\OJT-PROJECT-CLASS-10\game\main.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\CODING ALL\OJT-PROJECT-CLASS-10\game\main.cpp(161,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\CODING ALL\OJT-PROJECT-CLASS-10\game\main.cpp(201,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\CODING ALL\OJT-PROJECT-CLASS-10\game\main.cpp(207,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.vcxproj -> C:\Users\Kusha\OneDrive - MSFT\Desktop\CODING ALL\OJT-PROJECT-CLASS-10\game\x64\Debug\game.exe

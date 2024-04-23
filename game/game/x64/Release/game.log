@@ -1,0 +1,10 @@
+﻿  main.cpp
+C:\Users\Kusha\OneDrive - MSFT\Desktop\sfml-flappy-bird-master\game\main.cpp(25,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\sfml-flappy-bird-master\game\main.cpp(161,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\sfml-flappy-bird-master\game\main.cpp(201,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Kusha\OneDrive - MSFT\Desktop\sfml-flappy-bird-master\game\main.cpp(207,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 173 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  game.vcxproj -> C:\Users\Kusha\OneDrive - MSFT\Desktop\sfml-flappy-bird-master\game\x64\Release\game.exe
