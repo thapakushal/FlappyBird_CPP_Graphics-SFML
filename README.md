@@ -40,3 +40,5 @@ Press the spacebar or left mouse button to make the bird flap and avoid the pipe
 Contributions to the project are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 <h1>SCREENSHOTS</h1>
+
+<img src="SCREENSHOT.png">
